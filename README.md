@@ -9,7 +9,7 @@ The objective of this project is to answer business questions relating to viewer
 
 ### Data
 
-Rockbuster's database is made up of 17 tables and can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+Rockbuster's database is made up of 17 tables and can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 The data is provided by careerfoundry and is available [here] 
 
