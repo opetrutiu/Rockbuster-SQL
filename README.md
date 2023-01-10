@@ -11,6 +11,4 @@ The objective of this project is to answer business questions relating to viewer
 
 Rockbuster's database is made up of 17 tables and can be found [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
-The data is provided by careerfoundry and is available [here] 
-
-View the project viz's here: [Tableau Viz](https://public.tableau.com/app/profile/oana4788/viz/RockbusterAnalysis_16671788321340/Presentation)
+View the project viz's here: [Tableau Viz](https://public.tableau.com/app/profile/oana4788/viz/RockbusterAnalysis_16671788321340/Presentation).
